@@ -1,2 +1,2 @@
-# codepath-prework
+# Codepath-Prework
 CodePath IOS Prework Project
