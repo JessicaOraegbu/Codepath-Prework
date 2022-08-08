@@ -33,7 +33,7 @@
                                 <rect key="frame" x="101" y="516" width="226" height="43"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" title="Change Text Color">
+                                <buttonConfiguration key="configuration" style="plain" title="Change Label Text Color">
                                     <backgroundConfiguration key="background">
                                         <color key="backgroundColor" red="0.08687310665845871" green="0.39193624258041382" blue="0.35606998205184937" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     </backgroundConfiguration>
